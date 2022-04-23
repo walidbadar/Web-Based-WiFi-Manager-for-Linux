@@ -6,7 +6,7 @@
 <h2 id="usage">Usage</h2>
 <ol>
 <li>Connect to Access point created by the Raspberry Pi.</li>
-<li>Open up a browser and navigate to <a href="http://raspberrypi.local:5000">http://raspberrypi.local:5000</a></li>
+<li>Open up a browser and navigate to <a href="http://raspberrypi.local">http://raspberrypi.local</a></li>
 <li>Fill up the <code>SSID</code> and the <code>psk</code>
 <li>Click the connect button. Wait for some time(2-3 minutes). Pi will restart itself and now it is good to go!</li>
 </ol>
